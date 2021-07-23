@@ -65,6 +65,7 @@ cover/
 *.pptx
 *.pdf
 *.pth
+*.pt
 
 # Django stuff:
 *.log
@@ -148,12 +149,7 @@ cython_debug/
 
 
 #some datasets
-A_alexnet/results
-B_VGG/data
-B_VGG/results
-C_GoogLeNet/GoogLeNetæ•°æ®é›†
-C_GoogLeNet/data
-GoogLeNet_self/data
-GoogLeNet_self/results
-data/
-E_GoogLeNet_v3/data
+pytorch-retinanet/coco
+pytorch-retinanet/pre_model
+YOLOV3-deepshare/data/VOC
+SSD_deepshare2/datasets
