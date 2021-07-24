@@ -1,0 +1,1 @@
+outputs/vgg_ssd300_voc0712\model_005000.pth
